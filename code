@@ -1,10 +1,34 @@
 <!DOCTYPE html>
 <html>
+    <style>
+        Body {
+            background-color: rgb(102, 124, 179);
+        }
+    </style>
     <head>
-        <title>page</title>
+        <title>BITCOIN</title>
     </head>
     <body>
-        <h1>add heading</h1>
-        <p>add paragraph</p>
+        <h1>Bitcoin:</h1>
+          <p>Bitcoin is a decentralized digital currency, without a central bank or single administrator.It was first invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto.It works through a collaboration of computers.</p>
+          <h2>How Bitcoin Works</h2>
+        <p> As A Global, Decentralized Monetary Network Bitcoin is best understood as a digital monetary network powered by its native asset, bitcoin, which is written with a lowercase b. The network allows anyone, anywhere, to send value directly to another person without requiring permission from a bank, payment processor, or any third party.</p>
+        <h2>How Bitcoin Started</h2>
+        <p>In October 2008, Nakamoto announced to the cryptography mailing list at metzdowd.com: "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party." The now-famous white paper published on Bitcoin.org, entitled "Bitcoin: A Peer-to-Peer Electronic Cash System," would become the Magna Carta for how Bitcoin operates today.
+
+    <h2>The First Block</h2>
+    <p>On Jan. 3, 2009, the first Bitcoin block was mined. Called Block 0, it is also known as the genesis block and contains the text: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks," perhaps proof that the block was mined on or after that date.</p>
+
+    <h2>Rewards</h2>
+    <p>Every four years, the Bitcoin network halves the reward miners earn for adding a block.
+
+    This built-in feature slows the creation of new bitcoins and keeps supply limited—much like digital gold. In 2009, miners earned 50 bitcoins per block. By April 2024, that reward dropped to 3.125, and it will fall again to 1.5625 around mid-2028.
+
+     This predictable scarcity is one reason many investors compare Bitcoin to digital gold or view it as a potential hedge against inflation.</p>
+
+    <h2>Denominations</h2>
+    <p>One bitcoin is divisible to eight decimal places (100 millionths of one bitcoin), and this smallest unit is referred to as a satoshi.</p>
+
+    </p>
     </body>
 </html>
