@@ -1,26 +1,26 @@
 Body {
-            background-color: rgb(56, 172, 133);
+            background-color: rgb(30, 65, 54);
         }
 h1{
-    color:rgb(30, 65, 54);
+    color: blanchedalmond;
     text-align:center;
     font-size: 40px;
         }
 h2{
-    color:rgb(30, 65, 54);
+    color: blanchedalmond;
     text-align:center;
     font-size: 40px;
 
 }
 p{
     text-align: center;
-    color:rgb(30, 65, 54);
+    color: blanchedalmond;
     font-size: medium;
 
 }
 h3{
-    color: rgb(30, 65, 54);
+    color: blanchedalmond;
 }
 ol{
-    color: rgb(30, 65, 54);
+    color: blanchedalmond;
 }
