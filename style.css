@@ -24,3 +24,18 @@ h3{
 ol{
     color: blanchedalmond;
 }
+img {
+  
+  clip-path: ellipse(40% 50%);
+  shape-outside: ellipse(45% 50%);
+  width:50%;
+}
+.imgstuff{
+    width:33%;  
+    float:left;
+    text-align: center;
+}
+.mycontainer {
+  width:100%;
+  overflow:auto;
+}
