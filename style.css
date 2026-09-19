@@ -26,8 +26,8 @@ ol{
 }
 img {
   
-  clip-path: circle (40% 50%);
-  shape-outside: circle (45% 50%);
+  clip-path: circle(40% 50%);
+  shape-outside: circle(45% 50%);
   width:60%;
 }
 .imgstuff{
