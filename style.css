@@ -24,11 +24,9 @@ h3{
 ol{
     color: blanchedalmond;
 }
+
 img {
-  
-  clip-path: circle(40% 50%);
-  shape-outside: circle(45% 50%);
-  width:60%;
+  clip-path: circle(50% );
 }
 .imgstuff{
     width:33%;  
